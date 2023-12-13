@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgcomplete"
+    tools:context=".Activities.DangKyActivity">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="281dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="64dp"
+        android:text="GOLDEN HOTEL"
+        android:textAlignment="center"
+        android:textColor="@color/yellow"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="290dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="32dp"
+        android:text="Đăng Nhập Tài Khoản"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="294dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="48dp"
+        android:text="Nhập Email"
+        android:textColor="@color/blue"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.322"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView21" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="289dp"
+        android:layout_height="28dp"
+        android:layout_marginTop="32dp"
+        android:text="Nhập Password"
+        android:textColor="@color/blue"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.322"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/NhapEmailDNTxt" />
+
+
+
+
+
+    <Button
+        android:id="@+id/btnDangNhap"
+        android:layout_width="154dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="40dp"
+        android:text="Đăng Nhập"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/NhapMatKhauDNTxt" />
+
+    <EditText
+        android:id="@+id/NhapMatKhauDNTxt"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:ems="10"
+        android:inputType="text"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView29" />
+
+    <EditText
+        android:id="@+id/NhapEmailDNTxt"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:ems="10"
+        android:inputType="text"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView19" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

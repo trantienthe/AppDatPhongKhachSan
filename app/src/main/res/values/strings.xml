@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HOTEL</string>
+    <string name="title">GOLDEN HOTEL</string>
+    <string name="txtView2">Đón Noel 2023 cùng với Golden Hotel</string>
+    <string name="txtView3">Get Started</string>
+    <string name="txtView4">THÔNG TIN PHÒNG</string>
+    <string name="txtView11">CÁC TIỆN NGHI HÀNG ĐẦU</string>
+    <string name="booknow">BOOK NOW</string>
+    <string name="information">Vui Lòng Điền Thông Tin Của Bạn:</string>
+    <string name="firstName">Họ Tên Người Đặt *</string>
+    <string name="lastName">Họ Người đặt *</string>
+    <string name="email">Email *</string>
+    <string name="sdt">SDT </string>
+    <string name="country">Quốc gia cư trú:</string>
+    <string name="tn1">Bể Bơi</string>
+    <string name="tn2">Dịch Vụ Phòng 24h</string>
+    <string name="tn3">Quầy Bar</string>
+    <string name="tn4">Nhận Trả Phòng Nhanh</string>
+    <string name="tn5">Nhà Hàng</string>
+    <string name="tn6">Top quality gold hotel in Vietnam</string>
+</resources>

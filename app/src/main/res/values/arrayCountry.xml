@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_array">
+        <item>Việt Nam</item>
+        <item>Hoa Kỳ</item>
+        <item>Anh</item>
+        <item>Pháp</item>
+        <item>Đức</item>
+        <item>Lào</item>
+        <item>Thái Lan</item>
+        <item>Myanmar</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Indonesia</item>
+        <item>Brunei</item>
+        <item>Philippines</item>
+        <item> Đông Timor</item>
+        <item> Trung Quốc</item>
+        <item> Nhật Bản</item>
+        <item>Mông Cổ</item>
+        <item>Hàn Quốc</item>
+        <item>CHDCND Triều Tiên</item>
+        <item>Đài Loan</item>
+        <item>Hong Kong</item>
+        <item> Ấn Độ</item>
+        <item>Pakistan</item>
+        <item> Macau</item>
+        <item>Bangladesh</item>
+        <item>Nepal</item>
+        <item>Turkmenistan</item>
+        <item> Uzbekistan</item>
+        <item> Kazakhstan</item>
+        <item>Afghanistan</item>
+        <item>British Indian Ocean Territory</item>
+        <item> Maldives</item>
+        <item>Sri Lanka</item>
+        <item>Bhutan</item>
+        <item>Iraq</item>
+        <item>Oman</item>
+        <item>Yemen</item>
+        <item>Jordan</item>
+        <item>Syria</item>
+        <item>Lebanon</item>
+        <item>Turkey</item>
+        <item>Cyprus</item>
+        <item>Northern Cyprus</item>
+        <item>Akrotiri và Dhekelia</item>
+        <item>Azerbaijan</item>
+        <item>Armenia</item>
+        <item>Gruzia</item>
+        <item>Abkhazia</item>
+        <item>Nam Ossetia</item>
+        <item>Nagorno-Karabakh</item>
+
+    </string-array>
+
+</resources>

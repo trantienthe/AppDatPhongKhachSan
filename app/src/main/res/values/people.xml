@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayPeople">
+        <item>Người Lớn</item>
+        <item>Trẻ Em</item>
+        <item>Trẻ Sơ Sinh</item>
+    </string-array>
+</resources>
